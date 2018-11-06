@@ -1,0 +1,15 @@
+/**
+*  @file buglist.txt
+*  @author Grant Stewart
+*  @date 10-30-18
+*  @brief List of potential bugs in LinkedListofInts
+*/
+
+My found bugs are:
+addBack- adds to the front instead of the back
+
+removeFront- does nothing
+
+removeBack- does nothing
+
+isEmpty- returns true no matter the list
